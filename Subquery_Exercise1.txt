@@ -1,0 +1,47 @@
+
+Consider the following table called “students” to write SQL queries for below exercises.  
+
+Before working on exercises create below table and insert records into students table. 
+
+ 
+Table: students   
+
+Sid	  Sname 	 marks   city  
+
+105 	 Naveen  	85  	Hyderabad  
+
+106  	Kumar  		63  	Pune  
+
+107  	Satish  	52  	Hyderabad  
+
+108  	Kavya  		41  	Pune  
+
+109  	Priyanka  	89  	Pune  
+
+110  	Ram  		44  	Bangalore  
+
+111  	Manasa  	38  	Bangalore  
+
+112  	Rajesh  	78  	Bangalore  
+
+113	Raghu		55  	Pune  
+
+ 
+
+Exercise: 1 
+
+Write a SQL query to display all the columns of students table with maximum marks. 
+
+Exercise: 2 
+
+Write a SQL query to display all the columns of students table whose marks is greater than average marks of the students table. 
+
+Exercise: 3 
+
+Write a SQL query to display all the columns of students table with minimum marks. 
+
+Consider the following tables called “Customers” and “Orders” to write SQL queries for below exercises.  
+
+Before working on exercises create below tables and insert records into Customer and Orders tables. 
+
+ 
